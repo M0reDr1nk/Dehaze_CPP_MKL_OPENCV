@@ -1,0 +1,50 @@
+﻿  pch.cpp
+  AtmosphericMaskCalculator.cpp
+d:\workspace\dehaze_mkl\dehaze_mkl\dehaze_mkl\atmosphericmaskcalculator.cpp(56): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+  dehaze_mkl.cpp
+d:\workspace\dehaze_mkl\dehaze_mkl\dehaze_mkl\dehaze_mkl.cpp(14): warning C4305: “初始化”: 从“double”到“float”截断
+d:\workspace\dehaze_mkl\dehaze_mkl\dehaze_mkl\dehaze_mkl.cpp(15): warning C4305: “初始化”: 从“double”到“float”截断
+d:\workspace\dehaze_mkl\dehaze_mkl\dehaze_mkl\dehaze_mkl.cpp(16): warning C4305: “初始化”: 从“double”到“float”截断
+  GammaCorrection.cpp
+  GuidedFilter.cpp
+d:\workspace\dehaze_mkl\dehaze_mkl\dehaze_mkl\guidedfilter.cpp(27): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\workspace\dehaze_mkl\dehaze_mkl\dehaze_mkl\guidedfilter.cpp(29): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\workspace\dehaze_mkl\dehaze_mkl\dehaze_mkl\guidedfilter.cpp(40): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\workspace\dehaze_mkl\dehaze_mkl\dehaze_mkl\guidedfilter.cpp(43): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\workspace\dehaze_mkl\dehaze_mkl\dehaze_mkl\guidedfilter.cpp(55): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\workspace\dehaze_mkl\dehaze_mkl\dehaze_mkl\guidedfilter.cpp(56): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\workspace\dehaze_mkl\dehaze_mkl\dehaze_mkl\guidedfilter.cpp(65): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  ImageMat.cpp
+  ImageRWManager.cpp
+d:\workspace\dehaze_mkl\dehaze_mkl\dehaze_mkl\imagerwmanager.cpp(21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  MKLConverter.cpp
+  正在生成代码...
+  dehaze_mkl.vcxproj -> D:\Workspace\Dehaze_mkl\dehaze_mkl\x64\Debug\dehaze_mkl.exe
